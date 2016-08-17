@@ -1,14 +1,29 @@
+name: Ipawn
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.01410408
+title: 'iPawn.ca is a local Pawn Shop in Montreal, Quebec'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.05046726
-  lightness: 0.289012
-  brandStrength: 0.9116789
   brandColors:
     - '#FFFFFF'
     - '#2A2A2A'
     - '#FED174'
     - '#7C95AB'
     - '#A5673A'
+  brandStrength: 0.9116789
+  lightness: 0.289012
+  saturation: 0.05046726
   rhythmicContrast: 0.330523
-name: Ipawn
+purpose: []
