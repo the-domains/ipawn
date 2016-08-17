@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.01410408
+color:
+  saturation: 0.05046726
+  lightness: 0.289012
+  brandStrength: 0.9116789
+  brandColors:
+    - '#FFFFFF'
+    - '#2A2A2A'
+    - '#FED174'
+    - '#7C95AB'
+    - '#A5673A'
+  rhythmicContrast: 0.330523
+name: Ipawn
